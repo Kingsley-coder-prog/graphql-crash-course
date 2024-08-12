@@ -1,0 +1,10 @@
+node_modules
+
+
+# local env files
+.env
+
+
+# Editor directories and files
+.vscode
+
